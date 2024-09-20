@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+}
+
+
+
+h1, h2 {
+  color: #333;
+}
+
+p, li {
+  margin: 10px 0;
+  line-height: 1.6;
+}
